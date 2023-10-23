@@ -2,7 +2,7 @@
 
 *"如果一個政權可以被事實和知識顛覆，那它一定是犯罪組織"*
 
-[编程随想的博客](https://program-think.blogspot.com/)最後一篇文章發布於 2021 年 5 月 9 日。兩天後 2021 年 5 月 10 日[阮曉寰](https://zh.wikipedia.org/wiki/%E7%B7%A8%E7%A8%8B%E9%9A%A8%E6%83%B3)就在上海家中被以煽動顛覆國家政權罪逮捕。
+[编程随想的博客](https://program-think.blogspot.com/)最後一篇文章發布於 2021 年 5 月 9 日。兩天後 2021 年 5 月 10 日[阮曉寰](https://zh.wikipedia.org/wiki/%E7%B7%A8%E7%A8%8B%E9%9A%A8%E6%83%B3)就在上海家中被中國共產黨以煽動顛覆國家政權罪逮捕。
 
 ![](images/blog-latest.png)
 
